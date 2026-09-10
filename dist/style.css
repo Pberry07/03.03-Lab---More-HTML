@@ -2,7 +2,12 @@ h1{
   border-color: #d3e644;
   border-style: dashed;
 }
+#logo {
+  overflow: hidden;
+  height: 100px;
+  margin: -20px;
 
+}
 table {
   border-collapse: collapse;
   width: 100%;
